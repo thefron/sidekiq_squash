@@ -1,5 +1,7 @@
 # SidekiqSquash
 
+[![Build Status](https://travis-ci.org/thefron/sidekiq_squash.png)](https://travis-ci.org/thefron/sidekiq_squash)
+
 Sidekiq middleware notifies exceptions to Squash
 
 ## Installation
